@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Velocimetro</string>
+    <string name="conexao">Esperando por conexão GPS</string>
+    <string name="km">Km/h</string>
+</resources>
